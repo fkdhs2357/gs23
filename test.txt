@@ -1,1 +1,1 @@
-test data
+print('hello world')
